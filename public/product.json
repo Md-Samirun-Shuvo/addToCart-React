@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": " Maxi Climber System",
+        "price": "123",
+        "description": "Durable cold-rolled steel make the intense-level Maxi Climber System the perfect climber to help you reach the summit of your fitness goals.",
+        "img": "https://i.ibb.co/2kxVbgw/product3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Standard Grip Plate",
+        "price": "91",
+        "description": "The grip plate is ideal for cardio vascular fitness and strength training. About CAP Barbell CAP Barbell is a leading distributor and provider of fitness equipment.",
+        "img": "https://i.ibb.co/D9VR2kV/product7.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kootek Hand Grip",
+        "price": "65",
+        "description": "Quickly increase hand wrist finger forearm strength with the best hand exerciser. Ideal for rock climbers, bodybuilders, golfers, surfers, tennis players, drummers, guitarists, pianists, massage therapists, baseball players and violin players.",
+        "img": "https://i.ibb.co/jgJ2zmb/product1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Battle Dumbbells",
+        "price": "168",
+        "description": "Perfect for a variety of individual and group workouts, including jogging and power walking, aerobics, general exercise, physical therapy and even yoga routines.",
+        "img": "https://i.ibb.co/wKHV2bZ/product5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Invertio Steppers",
+        "price": "81",
+        "description": "Steppers display progress through a sequence by breaking it up into multiple logical and numbered steps. Well packed and easily assembled, took about 90 minutes, all tools furnished.",
+        "img": "https://i.ibb.co/FndhnF0/product8.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Steel Adjustable Weight",
+        "price": "90",
+        "description": "Body Maxx Chrome Steel Adjustable Dumbells sets. Heavy dumbbells are perfect for building massive muscle in arms and shoulders, stability and core strength.",
+        "img": "https://i.ibb.co/DD89xYN/product6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "CR2 Cross Rower",
+        "price": "176",
+        "description": "If torching calories in a short amount of time sounds good to you, then the Cross Row is the machine for you. It’s bi-directional resistance is uniquely designed to activate all the muscles of the body and kick start your metabolic furnace.",
+        "img": "https://i.ibb.co/BBQTdJ2/product4.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Vinyl Workout Rope",
+        "price": "45",
+        "description": "Battle Ropes are an all-in-one exercises that not only work as resistance training to build core muscles, biceps, shoulders and legs, but also help burn fat at the same time.",
+        "img": "https://i.ibb.co/pnGgZ3C/product2.jpg"
+    }
+]
+   
